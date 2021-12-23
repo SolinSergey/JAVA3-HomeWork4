@@ -1,0 +1,33 @@
+# Вы авторизованы как: nick1
+nick1: 111
+nick1: 222
+nick1: 333
+nick1: 333
+nick1: 333
+nick1: 333
+nick1: 333
+nick1: 333
+nick1: 333
+nick1: 333
+nick1: 333
+nick1: 333
+nick1: 333
+nick1: 333
+nick1: 333
+nick1: 333
+nick1: 333
+nick1: 333
+nick1: 020
+nick1: 021
+nick1: 022
+nick1: 023
+nick1: 024
+# Вы авторизованы как: nick1
+# Вы авторизованы как: nick1
+# Вы авторизованы как: nick1
+nick2 зашел в чат
+nick2: fsfgsfs
+nick2: sfsfsfsf
+nick1: sgsgs
+nick1: gsgsg
+# Вы авторизованы как: nick1

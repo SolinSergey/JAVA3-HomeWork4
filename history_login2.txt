@@ -1,0 +1,11 @@
+# Вы авторизованы как: nick2
+nick2: 111
+nick2: 222
+nick2: 555
+# Вы вышли из чата
+# Вы авторизованы как: nick2
+nick2: fsfgsfs
+nick2: sfsfsfsf
+nick1: sgsgs
+nick1: gsgsg
+nick1 вышел из чата
